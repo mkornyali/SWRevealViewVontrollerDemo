@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "change language"; ObjectID = "5Uc-S7-WdQ"; */
+"5Uc-S7-WdQ.normalTitle" = "change language";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "9Kc-CL-ni8"; */
+"9Kc-CL-ni8.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "9s1-Zj-Bv5"; */
+"9s1-Zj-Bv5.text" = "Followers";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "EBu-gM-xDk"; */
+"EBu-gM-xDk.normalTitle" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "OaR-0f-7na"; */
+"OaR-0f-7na.normalTitle" = "Reset";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Puj-lH-G5Q"; */
+"Puj-lH-G5Q.text" = "Title";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "eCz-ZF-KGm"; */
+"eCz-ZF-KGm.text" = "User Name";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "kli-gO-CBI"; */
+"kli-gO-CBI.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Hello"; ObjectID = "nTN-aV-5Gt"; */
+"nTN-aV-5Gt.text" = "Hello";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "omF-lq-rJD"; */
+"omF-lq-rJD.normalTitle" = "Profile";
+
+/* Class = "UILabel"; text = "90"; ObjectID = "uSB-AR-O0k"; */
+"uSB-AR-O0k.text" = "90";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "xgu-cx-DLE"; */
+"xgu-cx-DLE.text" = "Following";
+
+/* Class = "UILabel"; text = "120"; ObjectID = "yId-Yj-9Vy"; */
+"yId-Yj-9Vy.text" = "120";

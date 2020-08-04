@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SideMenuDemo
+
+  Created by Mohamed Korany on 7/29/20.
+  Copyright © 2020 Mohamed Korany. All rights reserved.
+*/
+"Hello" = "Hello";
+"Change Language" = "Change Language";
+"username" = "UserName";
+"followers" = "Followers";
+"follwing" = "Following";
+"Are You sure to change language" = "Are You sure to change language?";
+"Ok" = "Ok";
+"Cancel" = "Cancel" ;
+"home" = "home";
+"profile" = "profile";
+"Menu" = "Menu";
+"test" = "testttt";
